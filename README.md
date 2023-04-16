@@ -1,5 +1,5 @@
 # csci_5961
-Repository for field-level soybean yield prediction
+## Repository for field-level soybean yield prediction
 #  This repository is for my semester project in CSCI 5961 at St. Louis University.
 # I am using UAV collected imagery of soybean fields to predict yield.
 # I use both traditional machine learning algorithms as well as 2D and 3D deep learning algoirthms for yield prediction.
