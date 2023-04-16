@@ -1,4 +1,3 @@
-# csci_5961
 ## Repository for field-level soybean yield prediction
 #### -This repository is for my semester project in CSCI 5961 at St. Louis University.
 #### -I am using UAV collected imagery of soybean fields to predict yield.
