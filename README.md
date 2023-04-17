@@ -7,3 +7,4 @@
 #### -DenseNet and ResNet are found under the 2D_models repository.
 #### -3D DenseNet and Resnet are found under the 3D_models repository.
 #### -Models trained on specific growing season months are found under the temporal_comparison reposistory.
+#### - To run a model, navigate to the model repository of your choosing.  Download the appropriate file, upload to your development enviornment and execute the file.
